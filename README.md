@@ -67,6 +67,8 @@ To run end-to-end tests with Cypress.js
 yarn cypress:open
 ```
 
+<br/>
+
 ## <span id="difficulties">:cursing_face: Difficulties</span>
 
 The half challenge was to create a simple and user friendly interface for the website users as the website was built completely from scratch.
